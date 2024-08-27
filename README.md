@@ -1,5 +1,5 @@
 # 8 Bit Game using pygame
-Develop a simple game using the following guidelines:-
+**Develop a simple game using the following guidelines:-**
 1. The player can only move vertically.
 2. In addition to the player block, there will be two other blocks.
 3. One will be a scoring block, and the other will be an opposition block.
