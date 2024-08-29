@@ -9,7 +9,7 @@
 ```
 pip install -r requirements.txt
 ```
-
+## Game Pages
 ![Game Home Page](https://github.com/h4kr7/Block-game/blob/main/images/1.png)
 ![Game Home Page](https://github.com/h4kr7/Block-game/blob/main/images/2.png)
 ![Game Home Page](https://github.com/h4kr7/Block-game/blob/main/images/3.png)
